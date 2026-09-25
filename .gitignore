@@ -1,0 +1,5 @@
+#python
+--pycache--/
+*.pyc
+#secrets
+.env
